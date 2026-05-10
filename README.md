@@ -56,9 +56,6 @@ python 03_analysis.py   # Figures + analysis             (~5 min)
 └── cs439_final_project.tex  # Final paper (NeurIPS format)
 ```
 
-## Repository
-[https://github.com/KSGH0/CS439_FINAL_PROJECT](https://github.com/KSGH0/CS439_FINAL_PROJECT)
-```
 
 ## Key Design Decisions
 - **Position-based salary**: first author = PhD, last = PI, middle = weighted mix — no external data needed
